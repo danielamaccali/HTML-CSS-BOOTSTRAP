@@ -1,0 +1,15 @@
+body{
+    padding: 20px;
+}
+
+img{
+    float:left;
+}
+h2{
+    background-color: #fcda9c;
+}
+
+footer{
+    background-color: #fda218;
+    padding: 20px;
+}

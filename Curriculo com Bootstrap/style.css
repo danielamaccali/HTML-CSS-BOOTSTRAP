@@ -1,0 +1,52 @@
+h1 {
+    font-family: serif;
+}
+
+.card{
+  border-color:  #733381;
+}
+
+.card-aba{
+  margin-left: 10px;
+}
+.card-title{
+  font-weight: bold;
+}
+
+.card-body{
+  background-color: #FDE0B6;
+  
+}
+
+.row{
+  padding-bottom: 20px;
+}
+  
+h2{
+  text-shadow: #378e97;
+  }
+  
+body{
+  font-family: serif;
+  padding: 20px;
+}
+  
+#cabecalho{
+    margin: 0;
+    padding: 20px;
+    width: 100%;
+    background-color: #733381;
+    text-align: left;
+    float: center;
+    color: #ffd9a4;
+}
+
+#main{
+    background-color: #FBB149;
+}
+
+#img{
+    float: left;
+    border: transparent thin solid;
+    padding: 10px;
+}
