@@ -8,6 +8,7 @@ h1 {
 
 .card-aba{
   margin-left: 10px;
+  font-weight: bold;
 }
 .card-title{
   font-weight: bold;
@@ -28,7 +29,6 @@ h2{
   
 body{
   font-family: serif;
-  padding: 20px;
 }
   
 #cabecalho{
