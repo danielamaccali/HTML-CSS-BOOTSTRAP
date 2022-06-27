@@ -2,12 +2,32 @@ body{
     background-color: #508a92;
 }
 
-nav{
-    background-color: bisque;
+section{
+    padding-left: 10px;
 }
 
-#lateral{
+#conteudo{
+    background-color: #14eb38;
+    margin: 0;
+    padding: 10px;
     width: 10%;
+    height: 100%;
     float: left;
-    background-color: #3b14eb;
+    position: fixed;
+
 }
+
+#menu a:link {
+    color: #666;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 8px;
+    display: block;
+}
+
+#menu ul {
+    margin: 0; padding: 0px;
+    border-bottom: 10px solid #e414eb;
+    text-align: left;
+    list-style-type: none;
+    }
