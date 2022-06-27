@@ -5,3 +5,9 @@ body{
 nav{
     background-color: bisque;
 }
+
+#lateral{
+    width: 10%;
+    float: left;
+    background-color: #3b14eb;
+}
